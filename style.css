@@ -10,7 +10,7 @@ body, html {
     height: 100%;
 
     /* Center and scale the image nicely */
-    background-image: url("img/103.jpg");
+    background-image: url("img/103-min.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
